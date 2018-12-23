@@ -7,3 +7,5 @@ paginate_path: "/blog/page:num/"
 
 plugins:
   - jekyll-sitemap
+
+theme: jekyll-theme-time-machine
